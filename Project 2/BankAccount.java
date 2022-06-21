@@ -1,4 +1,4 @@
-package Bank_Proj;
+package Bank_Project;
 import java.util.*;
 
 public class BankAccount {
