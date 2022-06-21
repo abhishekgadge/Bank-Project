@@ -5,7 +5,7 @@ import java.util.*;
 public class BankApplication {
 
 	public static void main(String[] args) {
-		 System.out.println("List Of The Customers Who Opened Account In Bank:");
+		 System.out.println("List Of The Customers Who Opened Account In Amazon Bank:");
 		 System.out.println("=================================================================================================");
 		Customer c1=new Customer(456789,"Abhishek");
 		Customer c2=new Customer(123456,"Amol");
